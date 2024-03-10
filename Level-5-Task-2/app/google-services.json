@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71037188972",
+    "project_id": "level-5-task-2-a049c",
+    "storage_bucket": "level-5-task-2-a049c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71037188972:android:85e79b509a0d6a56ead149",
+        "android_client_info": {
+          "package_name": "com.example.level_5_task_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIYBKu7SJCk8f2Kzw4ljq7SUJkMd2LaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71037188972:android:36c4c3654077ab65ead149",
+        "android_client_info": {
+          "package_name": "com.madlevelfive.two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIYBKu7SJCk8f2Kzw4ljq7SUJkMd2LaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mad level 3 task 2</string>
+    <string name="student_portals">Student Portals</string>
+    <string name="click_start">Click START to start rating :)</string>
+    <string name="start">START</string>
+    <string name="new_reminder">New reminder text</string>
+    <string name="new_portal_url">new Portal Url</string>
+    <string name="new_portal_Name">new Portal Name</string>
+    <string name="empty_name">Empty name</string>
+    <string name="invalid">The portal url is invalid!</string>
+    <string name="url_added">url added</string>
+    <string name="added">add</string>
+</resources>

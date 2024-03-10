@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Level 6 Task 2</string>
+    <string name="title">Rock, Paper, Scissors Showdown</string>
+
+    <string name="bottom_nav_play">Play</string>
+    <string name="bottom_nav_history">Game History</string>
+
+    <string name="vs">vs</string>
+
+    <string name="computer">Computer</string>
+    <string name="you">Player</string>
+
+    <string name="instructions">How to Play: Choose rock, paper, or scissors and challenge your opponent!</string>
+
+    <string name="your_stats">Lifetime Player Statistics</string>
+
+    <string name="wins">Wins: %d</string>
+    <string name="draws">Draws: %d</string>
+    <string name="loses">Losses: %d</string>
+
+    <string name="win">Victory</string>
+    <string name="draw">Draw</string>
+    <string name="lose">Defeat</string>
+
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Level-4-task-1</string>
+    <string name="cats">Cats</string>
+    <string name="dogs">Dogs</string>
+    <string name="loading_text">loading text</string>
+    <string name="empty_placeholder">empty placeholder</string>
+    <string name="something_wrong_state">something wrong state</string>
+    <string name="breed">breed</string>
+    <string name="click_below">click below</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="get">get</string>
+</resources>

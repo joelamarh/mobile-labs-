@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4802906566",
+    "project_id": "nlhvamadlevel5example",
+    "storage_bucket": "nlhvamadlevel5example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4802906566:android:b448094b875d4ef91c0ac7",
+        "android_client_info": {
+          "package_name": "nl.hva.madlevel5example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVRI-zeHdiWaZDTWjb29elSUBANPl5htA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206903648317",
+    "project_id": "level-5-task-1-c6094",
+    "storage_bucket": "level-5-task-1-c6094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206903648317:android:c2f4d3fbadfb8698e38a54",
+        "android_client_info": {
+          "package_name": "nl.hva.madlevel5taskone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXbIusiFRGGiRdlM5MaHFPNNhyqb2fAmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
